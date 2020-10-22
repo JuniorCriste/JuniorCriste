@@ -6,4 +6,4 @@ Meu nome é Junior, sou um capixaba amante de música boa, Linux, audiovisual e 
 - :tiger: Minha linguagem mais usada aqui é o Pascal.  
 - 😍 AMO open-source. 
 - 😄 Faço lives desenhando, jogando e codando na [Twitch](https://www.twitch.tv/oisouojunior). 
-### SEE U SPACE COWBOY! 👋 
+## SEE U SPACE COWBOY! 👋 
