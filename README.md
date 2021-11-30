@@ -1,5 +1,5 @@
 ### Olá humano! 👋 
-Sou o Junior! Capixaba, amante de música boa, amigável ao Linux, produzo audiovisual e mexo com uns códigos. 
+Sou o Junior! Capixaba, formado em ADS, amante de boa música, usuário Linux e amigável ao audiovisual. Divido aqui meus códigos. 
 Tenho alguns repositórios aqui no GitHub, usufrua se quiser. 
 
 - 🔭 Sou mantedor do [canal](https://www.youtube.com/informaticode) e [site](https://www.informaticode.com.br/) Informaticode. 
