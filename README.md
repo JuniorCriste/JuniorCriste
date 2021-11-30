@@ -3,7 +3,11 @@ Sou o Junior! Capixaba, amante de música boa, amigável ao Linux, produzo audio
 Tenho alguns repositórios aqui no GitHub, usufrua se quiser. 
 
 #### Projetos de Estudo: 
-[Ambiente Virtual Web, BD e PHP](https://github.com/JuniorCriste/AmbienteVirtual) e [ToDo com Ionic](https://github.com/JuniorCriste/TO-DO).
+
+| Projeto  |  Desenvolvido com  | Sobre |
+| ------------------- | ------------------- | ------------------- | 
+|  [Ambiente Virtual](https://github.com/JuniorCriste/AmbienteVirtual) |  HTML, CSS, Javascript, BD e PHP | Sistema EAD com CRUD de cadastro/login de usuários. | 
+|  [ToDo](https://github.com/JuniorCriste/TO-DO) |  Ionic, Angular, Typescript | Agenda de tarefas com sistema CRUD. | 
 
 #### Projetos atuais e Futuros: [Open Tic Tac Toe 3D](https://github.com/JuniorCriste/Open-Tic-Tac-Toe-3D) e [Open Make Boot](https://github.com/JuniorCriste/OpenMakeBoot).
 
@@ -14,9 +18,3 @@ Tenho alguns repositórios aqui no GitHub, usufrua se quiser.
 - 😍 AMO open-source. 
 - 😄 Faço lives desenhando, jogando e codando na [Twitch](https://www.twitch.tv/oisouojunior). 
 ## SEE U SPACE COWBOY! 👋  
-
-
-| Primeiro cabeçalho  |  Segundo cabeçalho  |
-| ------------------- | ------------------- |
-|  Célula de conteúdo |  Célula de conteúdo |
-|  Célula de conteúdo |  Célula de conteúdo |
