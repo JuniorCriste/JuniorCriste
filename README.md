@@ -21,5 +21,5 @@ Sou o Junior! Capixaba, formado em ADS, amante de boa música, usuário Linux e 
 |  [Boa Noite Tux](https://github.com/JuniorCriste/BoaNoiteTux) |  Pascal e Shell Script | Aplicativo que agenda desligar ou reiniciar o Linux. | 
 
 #### Atualmente: Trabalhando no projeto JAM. 
-#### Projetos atuais e Futuros: [Open Tic Tac Toe 3D](https://github.com/JuniorCriste/Open-Tic-Tac-Toe-3D) e [Open Make Boot](https://github.com/JuniorCriste/OpenMakeBoot).
+#### Projetos e Futuros: [Open Tic Tac Toe 3D](https://github.com/JuniorCriste/Open-Tic-Tac-Toe-3D) e [Open Make Boot](https://github.com/JuniorCriste/OpenMakeBoot).
 ## SEE U SPACE COWBOY! 👋  
