@@ -5,7 +5,7 @@ Sou o Junior! Capixaba, formado em ADS, amante de boa música, usuário Linux e 
 - 📚 Tenho alguns [cursos](https://informaticode.com.br/web/cursos). 
 - 💬 Para contato use meu [e-mail](mailto:informaticode@gmail.com) ou [linkedin](https://www.linkedin.com/in/juniorcriste/).
 - :tiger: Minha linguagem mais usada aqui é o Pascal. 
-- :two_hearts: Minha vibe atual é i̵o̵n̵i̵c̵, nem sei mais.  
+- :two_hearts: Minha vibe atual é i̵o̵n̵i̵c̵, nem sei mais (cancela o ionic, é python!).  
 - 😍 AMO open-source. 
 - 😄 Faço lives desenhando, jogando e codando na [Twitch](https://www.twitch.tv/oisouojunior). 
 
