@@ -20,8 +20,8 @@ Sou o Junior! Capixaba, formado em ADS, amante de boa música, usuário Linux e 
 |  [Open Make Boot](https://github.com/JuniorCriste/OpenMakeBoot) |  Pascal e Shell Script | Criador de pendrives bootaveis Linux. | 
 |  [Open Tic Tac Toe](https://github.com/JuniorCriste/Open-TIC-TAC-TOE) |  Gambas e Shell Script | Jogo da Velha. | 
 |  [Boa Noite Tux](https://github.com/JuniorCriste/BoaNoiteTux) |  Pascal e Shell Script | Aplicativo que agenda desligar ou reiniciar o Linux. | 
-|  [Painel Interativo](https://github.com/JuniorCriste/Painel-Interativo) |  HTML, CSS, Javascript | Painel interativo projetado para enriquecer o ambiente escolar através de gamificação. | 
+|  [Painel Interativo](https://github.com/JuniorCriste/Painel-Interativo) |  HTML, CSS, Javascript | Painel Digital projetado para gamificação no ambiente escolar. | 
 
 #### Atualmente: Trabalhando no projeto JAM. 
-#### Projetos e Futuros: [Open Tic Tac Toe 3D](https://github.com/JuniorCriste/Open-Tic-Tac-Toe-3D) e [Open Make Boot](https://github.com/JuniorCriste/OpenMakeBoot).
+#### Projetos Pausados/Futuros: [Open Make Boot](https://github.com/JuniorCriste/OpenMakeBoot).
 ## SEE U SPACE COWBOY! 👋  
